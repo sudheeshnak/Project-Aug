@@ -1,6 +1,6 @@
 # Project-Aug
 
-[todomvc] (https://todomvc.com/examples/vanillajs/) Spend some time on the application and understand its structure to write automated test scripts.
+[todoMVC](https://todomvc.com/examples/vanillajs/)  Spend some time on the application and understand its structure to write automated test scripts.
 
 Deliverable
 You are provided with an abstract Base Class Selenium Test which has the method:
